@@ -41,3 +41,11 @@ To view this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/bento-grid.git
+   ```
+2. Open the project folder:
+   ```bash
+   cd bento-grid-main
+   ```
+3. Open index.html in your browser.
+
+Alternatively, you can view the live version of the project on GitHub Pages or your hosting platform.
