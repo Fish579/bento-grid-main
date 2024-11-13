@@ -49,3 +49,6 @@ To view this project locally, follow these steps:
 3. Open index.html in your browser.
 
 Alternatively, you can view the live version of the project on GitHub Pages or your hosting platform.
+
+## Author
+Your Name – @your-github-username
