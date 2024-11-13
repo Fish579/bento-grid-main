@@ -1,6 +1,6 @@
 # Frontend Mentor - Bento grid
 
-![Design preview for the Bento grid coding challenge](./preview.jpg)
+
 
 This is a solution to the **Bento grid** challenge on [Frontend Mentor](https://www.frontendmentor.io/). It consists of a responsive layout that features a grid with various boxes displaying content such as images and text.
 
@@ -26,7 +26,7 @@ Users are required to create a Bento grid layout with the following features:
 
 ## Screenshot
 
-![Screenshot](assets/images/screenshot.png)
+![Design preview for the Bento grid coding challenge](./preview.jpg)
 
 ## Technologies Used
 
